@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning C and practising my WebDev skills (HTML, CSS, JavaScript).
 
 
-Some Major Projects I'm Working On:
-1. Building my website - priyanshu.fun - Update: almost done, publishing in early May!
-
+Some projects I'm working on:
+1. Building my website - priyanshu.fun
+   
 Some personal projects I've completed:
 1. Building a playgrounds website and experimenting with interactive JS game-elements
-2. Published a beta version of my personal website before the deadline!
+2. Published a beta version of my personal website.
 
 Thanks for reading!
 Have a nice day :)
