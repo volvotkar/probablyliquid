@@ -4,13 +4,7 @@
 - 🛠 I'm a Junior Developer at Developer's Society (DevSoc), BITS Goa
 - 🚀 I'm looking to start-up, any one interested in collaborating on ideas please DM!
 - 👀 I’m interested in Computer Science, AI, Web-Development, Game Dev.
-- 🌱 I’m currently learning C and practising my WebDev skills.
-
-Some personal projects I've completed:
-1. Building a playgrounds website and experimenting with interactive JS game-elements
-2. Published a beta version of my personal website.
-3. Published v1.0 of my website publicly :)
-4. Built Lotus, an online markdown editor.
+- 🌱 I’m currently building a 3D horror game, practising WebDev skills, and building a computer vision project
 
 Thanks for reading!
 Have a nice day :)
