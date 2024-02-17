@@ -4,7 +4,7 @@
 - 🛠 I'm a Junior Developer at Developer's Society (DevSoc), BITS Goa
 - 🚀 I'm looking to start-up, any one interested in collaborating on ideas please DM!
 - 👀 I’m interested in Computer Science, AI, Web-Development, Game Dev.
-- 🌱 I’m currently building a 3D horror game, practising WebDev skills, and building a computer vision project 
+- 🌱 I’m currently building a 3D horror game, practising WebDev skills, building a computer vision project, and learning Data Science and AI. 
 
 Thanks for reading!
 Have a nice day :)
