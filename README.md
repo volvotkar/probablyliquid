@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Priyanshu Volvotkar** a.k.a. @probablyliquid
+- 👋 Hi, I’m **Priyanshu Volvotkar** a.k.a. @volvotkar
 - 🍪 I'm doing my B.E. in Chemical Engineering at BITS-Pilani K. K. Birla Goa Campus
 - 👨‍💻 I'm a Core Member of BITSkrieg, the cyber-security club of BITS Goa 
 - 🛠 I'm a Junior Developer at Developer's Society (DevSoc), BITS Goa
